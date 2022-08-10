@@ -1,0 +1,17 @@
+1. Inheritance
+When child class is derived from the base class with the properties of base class
+
+properties->attributes and methods
+2. Types of Inheritance
+a. Single Inheritance
+b. Multiple Inheritance
+c. Multi-level or Hierarchical Inheritance
+
+# 1. Single Inheritance
+A base class is inherited by child class only
+
+# 2. Multiple Inheritance
+A child class is derived from Multiple base classes
+
+# 3. Multi-level Inheritance
+If the classes are inherited in sequence one after another.
